@@ -2,7 +2,7 @@
 
 ---
 
-[View Demo](https://sliderproj.netlify.con)
+[View Demo](https://sliderproj.netlify.com)
 ![Slider Project](/public/slider-preview.png)
 
 ---
